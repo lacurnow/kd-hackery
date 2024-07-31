@@ -1,0 +1,10 @@
+<blogs>
+    <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://www.martinfowler.com/bliki/bliki.atom" htmlUrl="https://martinfowler.com"/>
+    <outline type="rss" text="Awesome Scala Weekly" title="Awesome Scala Weekly" xmlUrl="https://scala.libhunt.com/newsletter/feed" htmlUrl="https://scala.libhunt.com/newsletter"/>
+    <outline type="rss" text="SoftwareMill Tech Blog" title="SoftwareMill Tech Blog" xmlUrl="https://blog.softwaremill.com/feed" htmlUrl="https://blog.softwaremill.com?source=rss----185e254afb32---4"/>
+    <outline type="rss" text="Google Scholar Blog" title="Google Scholar Blog" xmlUrl="http://googlescholar.blogspot.com/feeds/posts/default" htmlUrl="http://scholar.googleblog.com/"/>
+    <outline type="rss" text="Stitch Fix Technology &#x2013; Multithreaded" title="Stitch Fix Technology &#x2013; Multithreaded" xmlUrl="http://multithreaded.stitchfix.com/feed.xml" htmlUrl="https://multithreaded.stitchfix.com/"/>
+    <outline type="rss" text="Netflix TechBlog - Medium" title="Netflix TechBlog - Medium" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
+    <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="http://labs.spotify.com/feed/" htmlUrl="https://engineering.atspotify.com/"/>
+    <outline type="rss" text="Home on Beachgeek blog - a refuge for pineapple on pizza lovers" title="Home on Beachgeek blog - a refuge for pineapple on pizza lovers" xmlUrl="https://blog.beachgeek.co.uk/index.xml" htmlUrl="https://blog.beachgeek.co.uk/"/>
+</blogs>
